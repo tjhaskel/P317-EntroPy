@@ -1,0 +1,6 @@
+brainfuck/hello: 1.19320349538
+c++/hello: 3.54542099274
+haskell/hello: 2.13688388925
+java/hello: 3.44575846166
+python/hello: 2.11188388925
+scheme/hello: 1.66859434276

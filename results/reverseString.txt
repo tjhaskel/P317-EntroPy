@@ -1,0 +1,6 @@
+brainfuck/reverseString: 1.55099545231
+c++/reverseString: 3.66604922434
+haskell/reverseString: 2.20208278947
+java/reverseString: 3.07089885455
+python/reverseString: 1.69127004992
+scheme/reverseString: 2.64944406186

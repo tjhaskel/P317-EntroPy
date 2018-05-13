@@ -1,0 +1,6 @@
+brainfuck/bubbleSort: 2.46637721121
+c++/bubbleSort: 4.85309721348
+haskell/bubbleSort: 3.77427960489
+java/bubbleSort: 4.41788530182
+python/bubbleSort: 3.93089885252
+scheme/bubbleSort: 3.50438610141
